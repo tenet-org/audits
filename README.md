@@ -2,4 +2,4 @@
 
 ## Smart Contracts
 
-### [Restaking](./Restaking.pdf)
+### [Restaking](./restaking/Tenet-Restaking-Halborn.pdf)
